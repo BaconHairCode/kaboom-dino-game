@@ -1,0 +1,17 @@
+name: Project Videos Playlist
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+  
+  jobs:
+    youtube:
+      name: Latest video from the playlist
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - uses: gautamkrishnar/blog-post-workflow@master
+          with:
+            comment_tag_name: "YOUTUBE-VIDEOS-LIST"
+            feed_list: "https://www.youtube.com/feeds/videos.xml?UC6r3Wrw3rT7roWDnYdPrbyQ"
