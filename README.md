@@ -6,8 +6,8 @@ This is a simple project which is being recorded on the given youtube channel-
 
 ## Playlist
 
-<!--YOUTUBE-VIDEOS-LIST:START-->
-<!--YOUTUBE-VIDEOS-LIST:END-->
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ## Installtion
 
