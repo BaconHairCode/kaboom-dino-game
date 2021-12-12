@@ -9,9 +9,6 @@ This is a simple project which is being recorded on the given youtube channel-
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Dinosaur 🦕 Game 🎮 Using 📜 JavaScript! | Kaboom.Js 💥 Tutorial #2](https://www.youtube.com/watch?v=y1TvbD73G-E)
 - [Develop GAMES 🎮 Using 📜 Javascript! | Kaboom.JS 💥 Tutorial #1](https://www.youtube.com/watch?v=a2NOb7NU93o)
-- [Deploy React + Express Node App To Heroku In ⭐ 4 MINS](https://www.youtube.com/watch?v=sZfuV7C_aPQ)
-- [How to Deploy React App to GitHub Pages⭐UNDER 2 MINS](https://www.youtube.com/watch?v=nkE0FP_Y2Dc)
-- [Adding HTML in Django | Web Developement](https://www.youtube.com/watch?v=vHiJJCsoSTc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ## Installtion
