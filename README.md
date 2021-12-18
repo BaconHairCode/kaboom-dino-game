@@ -7,6 +7,7 @@ This is a simple project which is being recorded on the given youtube channel-
 ## Playlist
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Chrome Dinosaur Game 🎮 Using 📜 JavaScript! | Kaboom.Js 💥 Tutorial #3](https://www.youtube.com/watch?v=w4TFHO3fioE)
 - [Dinosaur 🦕 Game 🎮 Using 📜 JavaScript! | Kaboom.Js 💥 Tutorial #2](https://www.youtube.com/watch?v=y1TvbD73G-E)
 - [Develop GAMES 🎮 Using 📜 Javascript! | Kaboom.JS 💥 Tutorial #1](https://www.youtube.com/watch?v=a2NOb7NU93o)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
